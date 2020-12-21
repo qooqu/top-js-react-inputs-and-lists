@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/top-js-react-inputs-and-lists/static/css/main.6e136038.chunk.css",
+    "main.js": "/top-js-react-inputs-and-lists/static/js/main.b0e7159b.chunk.js",
+    "main.js.map": "/top-js-react-inputs-and-lists/static/js/main.b0e7159b.chunk.js.map",
+    "runtime-main.js": "/top-js-react-inputs-and-lists/static/js/runtime-main.8dc99900.js",
+    "runtime-main.js.map": "/top-js-react-inputs-and-lists/static/js/runtime-main.8dc99900.js.map",
+    "static/js/2.41ebd464.chunk.js": "/top-js-react-inputs-and-lists/static/js/2.41ebd464.chunk.js",
+    "static/js/2.41ebd464.chunk.js.map": "/top-js-react-inputs-and-lists/static/js/2.41ebd464.chunk.js.map",
+    "index.html": "/top-js-react-inputs-and-lists/index.html",
+    "static/css/main.6e136038.chunk.css.map": "/top-js-react-inputs-and-lists/static/css/main.6e136038.chunk.css.map",
+    "static/js/2.41ebd464.chunk.js.LICENSE.txt": "/top-js-react-inputs-and-lists/static/js/2.41ebd464.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8dc99900.js",
+    "static/js/2.41ebd464.chunk.js",
+    "static/css/main.6e136038.chunk.css",
+    "static/js/main.b0e7159b.chunk.js"
+  ]
+}
